@@ -3,6 +3,7 @@
 </h1>
 
 <p align="center">
+    I'm Carlos Ramos<br>
     📚 Currently studying software engineering at the University of Brasília.<br>
     🔭 I love physics and mathematics, especially general relativity and quantum mechanics.<br>
     🌱 I'm interested in machine learning, databases, computer vision, and signal processing.
