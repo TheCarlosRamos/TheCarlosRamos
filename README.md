@@ -29,6 +29,7 @@
 <div align="center"> 
     
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheCarlosRamos&size_weight=0.5&langs_count=100&card_width=1024&custom_title=Statistcs%20by%20technology&theme=gruvbox)
+![ ](https://github-readme-activity-graph.vercel.app/graph?username=TheCarlosRamos&theme=react-dark)
 
 
 
