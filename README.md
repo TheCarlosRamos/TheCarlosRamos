@@ -1,39 +1,57 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;I'm+Carlos+Ramos" alt="Typing intro"/>
 </h1>
 
+<h3 align="center">Software Engineering Student @ University of Brasília</h3>
+
 <p align="center">
-    I'm Carlos Ramos<br>
-    📚 Currently studying software engineering at the University of Brasília.<br>
-    🔭 I love physics and mathematics, especially general relativity and quantum mechanics.<br>
-    🌱 I'm interested in machine learning, databases, computer vision, and signal processing.
+  Exploring the intersection of <b>Physics</b> and <b>Computer Science</b><br/>
+  Currently diving deep into <b>Machine Learning</b> & <b>Computer Vision</b><br/>
+  Fascinated by <b>General Relativity</b> and <b>Quantum Mechanics</b>
 </p>
-<hr/>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/carlos-gabriel-503336331/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:gabrielmod342@gmail.com" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://github.com/TheCarlosRamos" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
 
-    
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-gabriel-503336331/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabrielmod342@gmail.com)
-
-
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,vscode,github,git" />
-    <img src="https://skillicons.dev/icons?i=c,java,python,mysql" /><br>
-</div>
-
-<br/>
 
 ---
-<div align="center"> 
-    
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheCarlosRamos&size_weight=0.5&langs_count=100&card_width=1024&custom_title=Statistcs%20by%20technology&theme=gruvbox)
-![ ](https://github-readme-activity-graph.vercel.app/graph?username=TheCarlosRamos&theme=react-dark)
+
+### Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,git,github,mysql,html,css,vscode,linux" alt="Tech stack icons"/>
+</p>
+
+---
+
+### Current Focus
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=flat&logo=tensorflow&logoColor=white" alt="ML"/>
+  <img src="https://img.shields.io/badge/Databases-4479A1?style=flat&logo=mysql&logoColor=white" alt="DB"/>
+  <img src="https://img.shields.io/badge/Quantum%20Computing-6236FF?style=flat" alt="QC"/>
+  <img src="https://img.shields.io/badge/General%20Relativity-000000?style=flat" alt="GR"/>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox" alt="Random Dev Quote"/>
+</p>
 
 
-
-
-
-
-
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TheCarlosRamos/TheCarlosRamos/output/snake-dark.svg" />
+    <img src="https://raw.githubusercontent.com/TheCarlosRamos/TheCarlosRamos/output/snake.svg" alt="-"/>
+  </picture>
+</p>
