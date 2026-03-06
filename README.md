@@ -19,18 +19,6 @@
   </a>
 </p>
 
----
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TheCarlosRamos&theme=react-dark&bg_color=20232a&hide_border=true&area=true&custom_title=Contribution%20Graph" width="95%" />
-</div>
-
-<br/>
-
-
-<br/>
 <hr/>
 
 
