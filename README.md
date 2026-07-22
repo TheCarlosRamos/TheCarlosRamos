@@ -10,8 +10,7 @@ Software Engineer | Artificial Intelligence • Computer Vision • Scientific C
 Passionate about <b>Artificial Intelligence</b>, <b>Machine Learning</b>,
 <b>Computer Vision</b>, and <b>Scientific Computing</b>.<br>
 My interests lie at the intersection of <b>Computer Science</b> and
-<b>Physics</b>, with experience in software engineering, data science,
-and AI-driven solutions.
+<b>Physics</b>, with experience in software engineering and data science.
 </p>
 
 <p align="center">
